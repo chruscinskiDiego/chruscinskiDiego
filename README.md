@@ -1,7 +1,5 @@
 # Olá, seja bem vindo(a)! 🤝
 
-![banner](https://drive.google.com/uc?export=view&id=19JSE_h8VHjoiFXEnbqtKib6yb2G4gf-O)
-
 ---
 ## Sobre mim 👨‍💻
 
