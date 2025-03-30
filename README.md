@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá, seja bem vindo(a)! 🤝
 
-<!--
-**chruscinskiDiego/chruscinskiDiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://drive.google.com/uc?export=view&id=19JSE_h8VHjoiFXEnbqtKib6yb2G4gf-O)
 
-Here are some ideas to get you started:
+---
+## Sobre mim 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo **Diego Chruscinski de Souza**, sou desenvolvedor web com experiência imersiva nas seguintes stacks: 
+
+- Node.JS
+- Nest.JS
+- React.JS
+- SQL
+- No SQL
+- CI / CD
+- Java
+- Spring Boot
+
+**Cargo Atual** 💎
+Atualmente exerço a função **de Desenvolvedor Jr** na **Linx**, na área de *Business Inteligence*. 
+
+**Formação Acadêmica** 📚
+Estou finalizando o curso de **Análise e Desenvolvimento de Sistemas** pela **UTFPR de Pato Branco**.
+
+---
+### Projetos Relevantes 💻
+
+Meus principais projetos podem ser encontrados aqui no Github, e também pelo meu site (sendo um deles), através do [link](https://diego-chruscinski.vercel.app/)
+
+---
+## Contato ☎️
+
+Fique à vontade para entrar em contato:
+
+**E-mail:** contato@diegochruscinski.com.br
+**LinkedIn**: https://www.linkedin.com/in/diego-chruscinski/
+
+---
+
+*Este README é atualizado periodicamente para refletir a evolução da minha carreira e dos meus projetos.*
+
+
