@@ -15,7 +15,7 @@ Me chamo **Diego Chruscinski de Souza**, sou desenvolvedor web com experiência 
 - Spring Boot
 
 **Cargo Atual** 💎
-Atualmente exerço a função **de Desenvolvedor Jr** na **Linx**, na área de *Business Inteligence*. 
+Atualmente exerço a função **de Desenvolvedor Pleno** na **Linx**, na área de *Business Inteligence*. 
 
 **Formação Acadêmica** 📚
 Estou finalizando o curso de **Análise e Desenvolvimento de Sistemas** pela **UTFPR de Pato Branco**.
