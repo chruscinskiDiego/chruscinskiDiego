@@ -24,7 +24,7 @@
 
 I'm a **Mid-Level Software Developer at Linx**, with a degree in **Systems Analysis and Development (UTFPR)**.
 
-I work as a **Full Stack Developer**, participating in the entire application lifecycle — from interface development to data infrastructure — with a primary focus on **back-end engineering**.
+I work as a **Full Stack Developer**, participating in the entire application lifecycle, from interface development to data infrastructure, with a primary focus on **back-end engineering**.
 
 On a daily basis, I build **scalable, secure, and high-performance APIs**, applying software architecture best practices, clean code organization, and long-term maintainability principles.
 
